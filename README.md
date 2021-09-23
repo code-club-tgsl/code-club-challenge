@@ -19,10 +19,10 @@
 
 ```
 
-# CHALLENGE
+# PUZZLE
 
 `Hello stranger!`\
-`Do you love challenges?`\
+`Do you love puzzles?`\
 `Yes, you do!` \
 `And we have one special for you! ;)` \
 `Check one in:`  **CodeClubApp.java**
